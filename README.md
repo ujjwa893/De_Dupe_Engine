@@ -21,17 +21,19 @@ Bootstrap : For front end web development.
 
 ### Single mode
 
-![image](https://user-images.githubusercontent.com/82048242/163333263-c896fd08-b6c9-4ec1-8ff0-f54e5943ca6d.png)
+![image](https://user-images.githubusercontent.com/82048242/163333934-04f33fa8-e467-473f-9f93-a09ad0153aba.png)
 
-![image](https://user-images.githubusercontent.com/82048242/163333297-1adfebcd-ea59-4d94-b9e4-d73f0b119642.png)
+
+![image](https://user-images.githubusercontent.com/82048242/163334025-6742e052-f34b-488c-b563-d4dd9f976587.png)
+
 
 ### Batch mode
 
-![image](https://user-images.githubusercontent.com/82048242/163333408-acea2df7-e5c2-4f9f-a06f-ec29d5d52c15.png)
+![image](https://user-images.githubusercontent.com/82048242/163334136-3dd63015-a055-4899-ab7e-1b64bb0a80fb.png)
 
-![image](https://user-images.githubusercontent.com/82048242/163333435-ffd39606-fd3c-4c21-b96d-d9fb90d78625.png)
 
-![image](https://user-images.githubusercontent.com/82048242/163333452-4c28971e-2484-4165-8d70-78e8d22d9534.png)
+![image](https://user-images.githubusercontent.com/82048242/163334232-9bd0f034-7ff2-420b-8485-68ca646cb110.png)
+
 
 Kindly read the report for complete details of the implementation.
 
