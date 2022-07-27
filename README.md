@@ -2,7 +2,7 @@
 
 ## Description
 
-This was our project for the Database Management Systems Class wherein we have attempted to to implement a complete standalone de duplication system where there will be two modes of operation for the service. One will be a single mode and the other will be a batch
+To implement a complete standalone de duplication system where there will be two modes of operation for the service. One will be a single mode and the other will be a batch
 mode. The single mode is useful when a service needs to signup a user for their database and give access to features. They will be able to check if the user is the same person or a different individual based on the data entered. This ensures the trust of the service and prevent unnecessary duplicates from getting entered into the database.
 
 The other mode of operation is the Batch Mode which focusses on the bulk upload from a user in the form of a excel/CSV sheet. This means that the data needs to be processed with respect to an already existing huge database. On successful comparison a report is generated for the admin to look into and remove verify the details of the person for getting added to the database.
